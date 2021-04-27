@@ -1,7 +1,5 @@
 # Kodluyoruz Ilk Repo
-Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
-
-![](https://github.com/naimaltinel/kodluyoruzilkrepo/blob/main/Ekran%20Resmi%202021-04-28%2001.59.42.png?raw=true)
+Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.<img width="913" alt="Ekran Resmi 2021-04-28 01 59 42" src="https://user-images.githubusercontent.com/19312043/116324044-03900500-a7c8-11eb-95b2-a95cadceca72.png">
 # Installation
 Öncelikle projeyi clonelayın.
 
